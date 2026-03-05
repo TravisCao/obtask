@@ -1,9 +1,8 @@
 # obtask
 
-[![PyPI version](https://img.shields.io/pypi/v/obtask)](https://pypi.org/project/obtask/)
-[![Python](https://img.shields.io/pypi/pyversions/obtask)](https://pypi.org/project/obtask/)
+[![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub](https://img.shields.io/github/stars/TravisCao/obtask?style=social)](https://github.com/TravisCao/obtask)
+[![GitHub stars](https://img.shields.io/github/stars/TravisCao/obtask?style=social)](https://github.com/TravisCao/obtask)
 
 [中文文档](README_CN.md)
 

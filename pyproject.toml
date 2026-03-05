@@ -1,0 +1,32 @@
+[project]
+name = "obtask"
+version = "0.1.0"
+description = "CLI for managing Obsidian task files with YAML frontmatter"
+requires-python = ">=3.12"
+license = "MIT"
+authors = [{ name = "Yuji Cao" }]
+keywords = ["obsidian", "task-management", "cli", "markdown", "yaml"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Office/Business :: Scheduling",
+]
+dependencies = [
+    "typer>=0.15",
+    "python-frontmatter>=1.1",
+    "rich>=13.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/TravisCao/obtask"
+Repository = "https://github.com/TravisCao/obtask"
+
+[project.scripts]
+obtask = "obtask.cli:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

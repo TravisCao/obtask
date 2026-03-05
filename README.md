@@ -1,5 +1,10 @@
 # obtask
 
+[![PyPI version](https://img.shields.io/pypi/v/obtask)](https://pypi.org/project/obtask/)
+[![Python](https://img.shields.io/pypi/pyversions/obtask)](https://pypi.org/project/obtask/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub](https://img.shields.io/github/stars/TravisCao/obtask?style=social)](https://github.com/TravisCao/obtask)
+
 [中文文档](README_CN.md)
 
 A fast CLI for managing Obsidian task files with YAML frontmatter.

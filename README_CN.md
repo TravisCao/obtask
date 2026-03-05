@@ -1,5 +1,10 @@
 # obtask
 
+[![PyPI version](https://img.shields.io/pypi/v/obtask)](https://pypi.org/project/obtask/)
+[![Python](https://img.shields.io/pypi/pyversions/obtask)](https://pypi.org/project/obtask/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub](https://img.shields.io/github/stars/TravisCao/obtask?style=social)](https://github.com/TravisCao/obtask)
+
 [English](README.md)
 
 快速管理 Obsidian 任务文件的命令行工具。
